@@ -3,11 +3,7 @@
 </div>
 
 
-
-
-
-
-<h1 align="center">Привет, я Георгий</h1>
+<h1 align="center">Привет, я Георгий!</h1>
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
@@ -25,13 +21,13 @@
 
 
 <h3 align="center"> 💬 Связь со мной:</h3>
-<div align="center">
-  <a href="https://t.me/mrgiorgio8" style="margin-right: 20px;"><img src="assets/images/telegram.png" alt="Telegram"></a>
-  <a href="mailto:gerorge.oblivantsev8@gmail.com"><img src="assets/images/gmail.png" alt="Gmail"></a>
-</div>
 
+<center>
 
+[![Telegram](assets/images/telegram.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Gmail](assets/images/gmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
 
+</center>
 
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
@@ -43,6 +39,11 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a><a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 </p>
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
+
+
+
+
+
 <!--
 **MRGeorgioDev8/MRGeorgioDev8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
