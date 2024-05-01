@@ -1,4 +1,4 @@
-<div style="text-align: center; margin-top: 40px;">
+<div align="center" style="margin-top: 40px;">
   <img src="assets/images/code1.gif" width="700" height="300" style="display: block; margin: 0 auto;">
 </div>
 
@@ -8,7 +8,7 @@
 
 
 <h1 align="center">Привет, я Георгий</h1>
-==============================================================================================================================
+
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
 ## Я начинающий веб-разработчик
@@ -23,8 +23,9 @@
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
- <h3 style="text-align: center;">💬 Связь со мной:</h3>
-<div style="text-align: center;">
+
+<h3 align="center"> 💬 Связь со мной:</h3>
+<div align="center">
   <a href="https://t.me/mrgiorgio8" style="margin-right: 20px;"><img src="assets/images/telegram.png" alt="Telegram"></a>
   <a href="mailto:gerorge.oblivantsev8@gmail.com"><img src="assets/images/gmail.png" alt="Gmail"></a>
 </div>
