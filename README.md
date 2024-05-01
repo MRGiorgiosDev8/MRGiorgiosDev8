@@ -20,14 +20,12 @@
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
 
-<h3 align="center"> 💬 Связь со мной:</h3>
-
-<center>
+### 💬 Связь со мной:
 
 [![Telegram](assets/images/telegram.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
 [![Gmail](assets/images/gmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
 
-</center>
+
 
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
