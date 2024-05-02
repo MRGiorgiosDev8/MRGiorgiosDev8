@@ -44,4 +44,4 @@
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
 ## Технологии:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,django,flask)](https://skillicons.dev)
