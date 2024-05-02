@@ -9,7 +9,7 @@
 
 <h1 align="center">Привет, я Георгий!</h1>
 
-[![Profile Views](https://img.shields.io/github/profile/MRGeorgioDev8/views?style=flat-square)](https://github.com/MRGeorgioDev8)
+![Profile Views](https://komarev.com/ghpvc/?username=MRGeorgioDev8)
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
