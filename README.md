@@ -9,7 +9,19 @@
 
 <h1 align="center">Привет, я Георгий!</h1>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=MRGeorgioDev8.MRGeorgioDev8&left_color=green&right_color=red)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=MRGeorgioDev8&color=blueviolet" />
+</div>
+
+
+
+
+
+
+
+
+
+
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
