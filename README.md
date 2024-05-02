@@ -9,7 +9,7 @@
 
 <h1 align="center">Привет, я Георгий!</h1>
 
-![Visitors](https://komarev.com/ghpvc/?username=MRGeorgioDev8&exclude=self)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=MRGeorgioDev8.MRGeorgioDev8&left_color=green&right_color=red)
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
