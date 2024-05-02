@@ -2,7 +2,7 @@
 
 
 <div align="center" style="margin-top: 40px;">
-  <img src="assets/images/codefashion1.gif" width="700" height="300" style="display: block; margin: 0 auto;">
+  <img src="assets/images/codefashion3.gif" width="700" height="300" style="display: block; margin: 0 auto;">
 </div>
 
 
