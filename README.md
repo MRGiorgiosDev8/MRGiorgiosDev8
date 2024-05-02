@@ -30,8 +30,8 @@
 
 ### 💬 Связь со мной:
 
-[![Telegram](assets/images/telegram1.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
-[![Gmail](assets/images/gmail1.png)](mailto:gerorge.oblivantsev8@gmail.com)
+[![Telegram](assets/images/telegram3.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Gmail](assets/images/gmail3.png)](mailto:gerorge.oblivantsev8@gmail.com)
 
 
 
