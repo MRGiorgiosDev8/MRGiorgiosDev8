@@ -37,8 +37,8 @@
 
 ### 💬 Связь со мной:
 
-[![Telegram](assets/images/telega77.svg)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
-[![Gmail](assets/images/mailg1.svg)](mailto:gerorge.oblivantsev8@gmail.com)
+[![Telegram](assets/images/telega7.svg)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Gmail](assets/images/gmail7.svg)](mailto:gerorge.oblivantsev8@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%A9A5B7&lines=*******************)](https://git.io/typing-svg)
 
