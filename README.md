@@ -7,6 +7,8 @@
 
 
 
+
+
 <h1 align="center">Привет, я Георгий!</h1>
 
 <div align="center">
@@ -14,9 +16,9 @@
 </div>
 
 
+
+
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
-
-
 
 ##  &nbsp; Я начинающий веб-разработчик
 
@@ -24,10 +26,10 @@
 
 - Освоил Django и Flask для создания веб-приложений.
 - Изучил клиентские технологии, такие как JavaScript, HTML и CSS.
+
 - [Диплом](assets/pdf/диплом.pdf)
 
 
-   
 - 💼 - Хочу освоить новую профессию и найти работу 
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
@@ -37,6 +39,8 @@
 
 [![Telegram](assets/images/telegram7.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
 [![Gmail](assets/images/fashionmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=******************)](https://git.io/typing-svg)
 
 
 
