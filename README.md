@@ -36,7 +36,7 @@
 ### 💬 Связь со мной:
 
 [![Telegram](assets/images/telegram7.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
-[![Gmail](assets/images/fashiongmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
+[![Gmail](assets/images/fashionmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
 
 
 
