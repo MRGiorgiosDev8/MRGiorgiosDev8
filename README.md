@@ -2,7 +2,7 @@
 
 
 <div align="center" style="margin-top: 40px;">
-  <img src="assets/images/codefashion7.gif" width="700" height="300" style="display: block; margin: 0 auto;">
+  <img src="assets/images/developergif.gif" width="700" height="300" style="display: block; margin: 0 auto;">
 </div>
 
 
@@ -37,17 +37,17 @@
 
 ### 💬 Связь со мной:
 
-[![Telegram](assets/images/telegram7.png)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
-[![Gmail](assets/images/fashionmail.png)](mailto:gerorge.oblivantsev8@gmail.com)
+[![Telegram](assets/images/telega77.svg)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Gmail](assets/images/mailg1.svg)](mailto:gerorge.oblivantsev8@gmail.com)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%238A2BE2&lines=******************)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%A9A5B7&lines=*******************)](https://git.io/typing-svg)
 
 
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
 <div align="center" style="margin-top: 40px;">
-  <img src="assets/images/pacman1.gif" width="600" height="260" style="display: block; margin: 0 auto;">
+  <img src="assets/images/citygif.gif" width="600" height="260" style="display: block; margin: 0 auto;">
 </div>
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
