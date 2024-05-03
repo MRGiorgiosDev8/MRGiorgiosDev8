@@ -14,15 +14,6 @@
 </div>
 
 
-
-
-
-
-
-
-
-
-
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
 
@@ -33,7 +24,7 @@
 
 - Освоил Django и Flask для создания веб-приложений.
 - Изучил клиентские технологии, такие как JavaScript, HTML и CSS.
-- ["Top Academy"](https://msk.top-academy.ru) | [Диплом](assets/pdf/диплом.pdf)
+- [Диплом](assets/pdf/диплом.pdf)
 
 
    
