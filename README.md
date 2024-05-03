@@ -6,17 +6,11 @@
 </div>
 
 
-
-
-
 <h1 align="center">Привет, я Георгий!</h1>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=MRGeorgioDev8&color=blueviolet" />
 </div>
-
-
-
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
@@ -41,8 +35,6 @@
 [![Gmail](assets/images/gmail7.svg)](mailto:gerorge.oblivantsev8@gmail.com)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%A9A5B7&lines=*******************)](https://git.io/typing-svg)
-
-
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
