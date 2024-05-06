@@ -9,7 +9,7 @@
 <h1 align="center">Привет, я Георгий!</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRGeorgioDev8&color=blueviolet" />
+  <img src="https://komarev.com/ghpvc/?username=MRGeorgioDev8&color=5B62B0" />
 </div>
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
