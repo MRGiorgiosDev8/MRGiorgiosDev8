@@ -9,7 +9,7 @@
 <h1 align="center">Привет, я Георгий!</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRGeorgioDev8&color=5B62B0" />
+  <img src="https://komarev.com/ghpvc/?username=MRGiorgioDev8&color=5B62B0" />
 </div>
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
@@ -52,6 +52,6 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRGeorgioDev8&theme=dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRGiorgioDev8&theme=dark" />
   </a>
 </div>
