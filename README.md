@@ -9,7 +9,7 @@
 <h1 align="center">Привет, я Георгий!</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRGiorgiosDev8&color=5B62B0" />
+  <img src="https://komarev.com/ghpvc/?username=MRGiorgioDev8&color=5B62B0" />
 </div>
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
@@ -21,7 +21,7 @@
 - Освоил Django и Flask для создания веб-приложений.
 - Изучил клиентские технологии, такие как JavaScript, HTML и CSS.
 
-- [Диплом](assets/pdf/диплом.pdf) | [Дипломный проект](https://github.com/MRGeorgiosDev8/Diplo_Project)
+- [Диплом](assets/pdf/диплом.pdf) | [Дипломный проект](https://github.com/MRGeorgioDev8/Diplo_Project)
 
 
 
@@ -32,10 +32,8 @@
 
 ### 💬 Связь со мной:
 
-[![Telegram](assets/images/telegram777.svg)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
-[![Gmail](assets/images/gmail77.svg)](mailto:gerorge.oblivantsev8@gmail.com)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%A9A5B7&lines=*******************)](https://git.io/typing-svg)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40mrgiorgio8-blue)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Email Badge](https://img.shields.io/badge/Email-gerorge.oblivantsev8%40gmail.com-red)](mailto:gerorge.oblivantsev8@gmail.com)
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
