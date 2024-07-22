@@ -32,7 +32,7 @@
 
 ### 💬 Связь со мной:
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-%40mrgiorgio8-blue)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
+[![Telegram Badge](https://img.shields.io/badge/Telegram-%40mrgiorgio8&#9786;-blue)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
 [![Email Badge](https://img.shields.io/badge/Email-Gmail&#10144;-red)](mailto:gerorge.oblivantsev8@gmail.com)
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
