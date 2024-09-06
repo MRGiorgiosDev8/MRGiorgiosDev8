@@ -21,7 +21,7 @@
 - Освоил Django и Flask для создания веб-приложений.
 - Изучил клиентские технологии, такие как JavaScript, HTML и CSS.
 
-- [Диплом](assets/pdf/диплом.pdf) | [Дипломный проект](https://github.com/MRGeorgioDev8/Diplo_Project)
+- [Диплом](assets/pdf/диплом.pdf) 
 
 
 
