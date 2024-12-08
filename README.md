@@ -8,10 +8,6 @@
 
 <h1 align="center">Привет, я Георгий!</h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MRGiorgioDev8&color=blueviolet" />
-</div>
-
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
 ##  &nbsp; Я начинающий веб-разработчик
