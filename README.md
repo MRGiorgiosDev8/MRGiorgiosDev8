@@ -40,7 +40,7 @@
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
 ## Технологии:
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bootstrap,django,flask)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bootstrap,tailwind,django,flask)](https://skillicons.dev)
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
