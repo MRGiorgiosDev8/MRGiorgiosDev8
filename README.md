@@ -15,7 +15,7 @@
 -  👨‍🎓- Завершил обучение по веб-разработке на Python в ["Top Academy"](https://msk.top-academy.ru). В ходе обучения приобрел следующие навыки:
 
 - Освоил Django и Flask для создания веб-приложений.
-- Изучил клиентские технологии, такие как JavaScript, HTML и CSS.
+- Изучил клиентские технологии, такие как JavaScript, HTML и CSS, Bootstrap, GSAP.
   
 - [Диплом](assets/pdf/диплом.pdf)
 
@@ -41,11 +41,3 @@
 
 ## Технологии:
 [![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bootstrap,tailwind,django,flask)](https://skillicons.dev)
-
-<hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
-
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MRGiorgiosDev8&theme=dark" />
-  </a>
-</div>
