@@ -30,7 +30,7 @@
 * **Главная фишка:** Асинхронный движок на `httpx`, который одновременно собирает и объединяет метаданные из **Last.fm**, **Deezer** и **iTunes**, обеспечивая мгновенный отклик API.
 * **Стек:** Python (ASGI/Uvicorn), Redis, PostgreSQL, Docker, GitHub Actions (CI/CD).
 * **Статус:** Проект прошел полный цикл — от разработки до автоматизированного деплоя на **Render**.
-* **Live:** 🌍 [georgios8-rubysoundfm.onrender.com](https://georgios8-rubysoundfm.onrender.com)
+* **Live Demo:** 🌍 [georgios8-rubysoundfm.onrender.com](https://georgios8-rubysoundfm.onrender.com)
 
 
 
