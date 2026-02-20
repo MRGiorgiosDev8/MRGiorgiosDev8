@@ -10,7 +10,7 @@
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
 
-##  &nbsp; Я начинающий веб-разработчик
+##  &nbsp; Я веб-разработчик
 
 -  👨‍🎓- Завершил обучение по веб-разработке на Python в ["Top Academy"](https://msk.top-academy.ru). В ходе обучения приобрел следующие навыки:
 
@@ -20,6 +20,14 @@
 - [Диплом](assets/pdf/диплом.pdf)
 
 - Изучил Tailwind для быстрой и адаптивной верстки.
+
+## 🚀 Портфолио / Pet проекты
+
+### [🎵 RubySound.fm](https://github.com/MRGiorgiosDev8/musicPlatform_api_django)
+**Асинхронная музыкальная платформа на Django + DRF.**
+* **Стек:** Python (ASGI), Redis, Docker, GitHub Actions, PostgreSQL.
+* **Фишка:** Параллельный сбор данных из Last.fm, Deezer и iTunes API.
+* **Статус:** Развернуто на Render.
 
 
 
@@ -39,5 +47,5 @@
 
 <hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 20px; opacity: 0.5;">
 
-## Технологии:
-[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,bootstrap,tailwind,django,flask)](https://skillicons.dev)
+## 🛠 Технологии:
+[![My Skills](https://skillicons.dev/icons?i=python,django,flask,postgres,docker,githubactions,linux,js,html,css,tailwind,bootstrap,pycharm,vscode)](https://skillicons.dev)
