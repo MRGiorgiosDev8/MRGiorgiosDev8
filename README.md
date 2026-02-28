@@ -38,7 +38,7 @@
 
 - Биографией исполнителя (RU/EN fallback)  
 - Фотографией из Wikipedia  
-- Анимациями на GSAP  
+ 
 
 ### ☸️ Kubernetes версия (ветка [k8s_version](https://github.com/MRGiorgiosDev8/musicPlatform_api_django/blob/k8s_version/readme.md))
 * Дополнительно разработана инфраструктура оркестрации для обеспечения отказоустойчивости (**Self-healing**) и масштабируемости.
