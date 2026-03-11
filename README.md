@@ -58,14 +58,6 @@
 
 ---
 
-### 🌍 Wikipedia API + Artist Bio Modal
-
-При клике на имя артиста открывается модальное окно с:
-
-- Биографией исполнителя (RU/EN fallback)  
-- Фотографией из Wikipedia  
- 
-
 ### ☸️ Kubernetes версия (ветка [k8s_version](https://github.com/MRGiorgiosDev8/musicPlatform_api_django/blob/k8s_version/readme.md))
 * Дополнительно разработана инфраструктура оркестрации для обеспечения отказоустойчивости (**Self-healing**) и масштабируемости.
 * Внедрены **Deep Health Checks** для мониторинга связей с БД и Redis, а также автоматизированная система **Disaster Recovery** (ежедневные бэкапы через CronJobs и сценарии быстрого восстановления).
