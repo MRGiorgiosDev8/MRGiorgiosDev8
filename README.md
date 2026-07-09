@@ -27,7 +27,7 @@
 **Fullstack-платформа для поиска музыки и социального взаимодействия**
 
 * **Live Demo:** 🌍 [georgios8-rubysoundfm.onrender.com](https://georgios8-rubysoundfm.onrender.com)
-* **Стек:** Python (Django, ASGI/Uvicorn), PostgreSQL, **Redis (Caching & Channels)**, Docker, GitHub Actions (CI/CD), GSAP (Animations).
+* **Стек:** Python (Django, ASGI/Uvicorn), PostgreSQL, **Redis (Caching & Channels)**, Docker & Docker Compose, GitHub Actions (CI/CD), GSAP (Animations), Pytest (Тесты), Vitest (Unit-тесты фронтенда), k6 (нагрузочное тестирование), WebSocket (Django Channels) (realtime-обновления),Prometheus (сбор RPS, latency, 5xx и DB-метрик локально через Docker Compose), Grafana (дашборд для визуализации метрик).
 
 ---
 
@@ -54,7 +54,15 @@
 - 🟢 **Presence System**: Отображение текущего онлайн-статуса пользователей через WebSocket.
 - 📚 **Artist Bio**: Детальные биографии и фото артистов в модальных окнах (Wikipedia integration).
 - 🔐 **Безопасность**: Защищенная аутентификация на базе JWT-токенов.
+- 💬 **Realtime комментарии**: Форма комментариев, удаление по правам (автор/владелец) и live-синхронизация списка комментариев через WebSocket без перезагрузки.
+- ⚡ **Высокая производительность**: Оптимизация запросов и кэширование данных через Redis.
+- ❤️‍🩹 **Healthchecks (Liveness/Readiness)**: Эндпоинты /health/live и /health/ready для проверки живости сервиса и готовности зависимостей (PostgreSQL, Redis, внешний API).
+- 📊 **Метрики и локальный мониторинг**: django-prometheus экспортирует метрики на /metrics, Prometheus собирает RPS/latency/5xx/DB-метрики, Grafana отображает их в дашборде.
+- 📈 **Нагрузочное тестирование**: k6-сценарий для проверки public endpoints, search, trending и auth-путей на локальном Docker Compose-стеке.
+- 📱 **Progressive Web App (PWA)**: Возможность установки сайта как приложения на любое устройство (режим standalone).
+- 🌗 **Переключение темы**: Переключатель светлой/тёмной темы.
 - 🔄 **Инфраструктура**: Контейнеризация проекта (**Docker**) и автоматизированный CI/CD пайплайн (**GitHub Actions**) для деплоя на Render.
+- 🛠️ **Django Admin**: Административная панель для управления пользователями, плейлистами, комментариями и контентом проекта.
 
 ---
 
