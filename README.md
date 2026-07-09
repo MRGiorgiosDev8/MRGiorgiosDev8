@@ -58,15 +58,6 @@
 
 ---
 
-### ☸️ Kubernetes версия (ветка [k8s_version](https://github.com/MRGiorgiosDev8/musicPlatform_api_django/blob/k8s_version/readme.md))
-* Дополнительно разработана инфраструктура оркестрации для обеспечения отказоустойчивости (**Self-healing**) и масштабируемости.
-* Внедрены **Deep Health Checks** для мониторинга связей с БД и Redis, а также автоматизированная система **Disaster Recovery** (ежедневные бэкапы через CronJobs и сценарии быстрого восстановления).
-* Настроены **InitContainers** для управления порядком запуска и **RollingUpdate** для обновлений без простоя (**Zero-Downtime**).
-
-
-<hr style="width: 100%; margin: 0; margin-top: 5px; margin-bottom: 40px; opacity: 0.5;">
-
-
 ### 💬 Связь со мной:
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-%40mrgiorgio8-blue)](https://t.me/mrgiorgio8)&nbsp;&nbsp;&nbsp;
