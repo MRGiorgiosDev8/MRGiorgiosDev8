@@ -15,11 +15,10 @@
 -  👨‍🎓- Завершил обучение по веб-разработке на Python в ["Top Academy"](https://msk.top-academy.ru). В ходе обучения приобрел следующие навыки:
 
 - Освоил Django и Flask для создания веб-приложений.
-- Изучил клиентские технологии, такие как JavaScript, HTML и CSS, Bootstrap, GSAP.
+- Изучил клиентские технологии, такие как JavaScript, HTML и CSS, Tailwind, Bootstrap, GSAP.
   
 - [Диплом](assets/pdf/диплом.pdf)
 
-- Изучил Tailwind для быстрой и адаптивной верстки.
 
 ## 🚀 Pet проекты
 
